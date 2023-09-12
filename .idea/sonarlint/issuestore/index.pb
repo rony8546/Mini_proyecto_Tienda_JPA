@@ -1,0 +1,31 @@
+
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+>
+tienda_JPA.iml,1\d\1d0f0e0b55518a6162c1302718e21bc6293797b8
+Q
+!src/main/java/model/Producto.java,8\2\82d4d0c5b7a28279e35e6a9db28f55de7ad2053c
+\
+,src/main/java/prueba/RegistroDeProducto.java,e\6\e64caca5d3e744e0bad26a809f700e908eed91ee
+S
+#src/main/java/dao/CategoriaDao.java,a\9\a992d5b4e76fdf077c9a639f0337b89da0f19d47
+R
+"src/main/java/dao/ProductoDao.java,e\f\efe4479ce2d275688b5bd46a9c65a20c1109c78a
+R
+"src/main/java/model/Categoria.java,8\e\8e117a6ac2f06fd67126ef66c456d68142d986c9
+P
+ src/main/java/model/Cliente.java,8\c\8c289541017307b7646dc4e6384db7964e3d55df
+O
+src/main/java/model/Pedido.java,e\1\e171e57083bac8b9de957da537abf66736b544ba
+T
+$src/main/java/model/ItemsPedido.java,b\d\bd31fcee29b7d95372eeea775cbffacb33f1f0e7
+P
+ src/main/java/dao/PedidoDao.java,e\c\ec996b5956a56ab45b7a683f42fe5c9038a66a2d
+Q
+!src/main/java/dao/ClienteDao.java,5\8\58bc3e900093614c45ebd44f73cc16998cf1ab92
+Z
+*src/main/java/prueba/RegistroDePedido.java,0\b\0b19e18a7eba2b31ee3ef1088e75c44eda979583
+U
+%src/main/java/prueba/LoadRecords.java,a\b\ab4214ed7b7dd1d3bdbd0a27ee66ea706d5c4b8f
+Q
+!src/main/java/utils/JPAUtils.java,3\0\300cea498e5d22982be42620398bc59a27adabca
